@@ -1,5 +1,5 @@
 # YOUR CODE HERE
-ef summation(list1,list2,n):
+def summation(list1,list2,n):
     updated_list = []
     for i in range(n):
         updated_list.append(list1[i]+list2[i])
